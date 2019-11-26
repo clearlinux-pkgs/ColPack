@@ -1,0 +1,2 @@
+mkdir -p %{buildroot}/usr/share/ColPack/examples
+mv  %{buildroot}/usr/examples %{buildroot}/usr/share/ColPack
